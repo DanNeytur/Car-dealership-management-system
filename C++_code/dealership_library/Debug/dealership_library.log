@@ -1,0 +1,10 @@
+﻿  Dealership_system.cpp
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.cpp(492,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.cpp(500,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.cpp(508,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.cpp(516,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.cpp(635,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.cpp(645,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.h(26,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\source\repos\dealership\dealership_library\Dealership_system.cpp(41): message : see reference to function template instantiation 'void show_sel_vect<Sports_Car>(const std::vector<Sports_Car,std::allocator<Sports_Car>> &)' being compiled
+  dealership_library.vcxproj -> C:\Users\USER\source\repos\dealership\Debug\dealership_library.lib

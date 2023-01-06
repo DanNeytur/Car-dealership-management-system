@@ -1,0 +1,36 @@
+m_Pickup_stock
+80 70 60 70
+doge RAM 119 1 Black 111000 3000 0.05 4
+Soler 150 4 1395
+Falken 225 17
+Falken 225 17
+Falken 225 17
+Falken 225 17
+80 70 60 70
+ford mashehu 12 0 Black 111000 3000 0.05 4
+Soler 150 4 1395
+Falken 225 17
+Falken 225 17
+Falken 225 17
+Falken 225 17
+80 70 60 70
+chevy mashu 12 0 Black 111000 3000 0.05 4
+Soler 150 4 1395
+Falken 225 17
+Falken 225 17
+Falken 225 17
+Falken 225 17
+end_m_Pickup_stock
+m_Pickup_sold
+dan beytur 545454 54545 0
+end_m_Pickup_sold
+m_Sports_stock
+1 2 2 10000
+Chevrolet stingray 12 0 Black 111000 3000 0.05 4
+Benzin 150 4 1395
+Falken 225 17
+Falken 225 17
+Falken 225 17
+Falken 225 17
+end_m_Sports_stock
+end
