@@ -12,7 +12,7 @@ The system has interactive menu. The user can pick an option by typing the optio
 ### Main menu
 ![main menu](https://user-images.githubusercontent.com/120782729/211036687-2a2e4092-15dd-449a-a9b9-36355cefc123.jpg)
 
-### Feautures:
+### Features:
 * Two types of cars- sports cars and pickup trucks.
 * The user can see the existing stocks
 * Sorting stocks by popularity
