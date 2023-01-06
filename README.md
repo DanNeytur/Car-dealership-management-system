@@ -16,7 +16,7 @@ The system has interactive menu. The user can pick an option by typing the optio
 * Two types of cars- sports cars and pickup trucks.
 * The user can see the existing stocks
 * Sorting stocks by popularity
-* The user can see the costumers
+* Show list of the costumers
 * Adding new costumers
 * Adding and changing the stocks
 * Change taxes sums
