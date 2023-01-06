@@ -21,6 +21,8 @@ The system has interactive menu. The user can pick an option by typing the optio
 * Adding and changing the stocks
 * Change taxes sums
 
+## Classes 
+![classes](https://user-images.githubusercontent.com/120782729/211037428-25150b79-4d38-44ac-97cd-bded3570abe6.jpg)
 
 ## Authors
 
